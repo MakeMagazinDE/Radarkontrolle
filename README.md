@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Radarkontrolle fürs Büro
 
-### Mit dem Benewake TFmini-S LiDAR bauen wir eine Anlage, die ausgemessenen Distanzen die Geschwindigkeit in Echtzeit erfasst.n.
+### Mit dem Benewake TFmini-S LiDAR bauen wir eine Anlage, die aus gemessenen Distanzen die Geschwindigkeit in Echtzeit erfasst.
 
 PlGeschwindigkeitskontrolle sowohl für Einsteiger als auch für Profis ein Projekt, das mit wenig Aufwand Lust auf kreatives Basteln macht. Erst einmal in Funktion, kommt der Spaß an Bewegung und Bewegungsmessung noch dazu.
 
