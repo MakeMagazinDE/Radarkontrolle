@@ -8,7 +8,7 @@ Maker Media GmbH
 
 ### Mit dem Benewake TFmini-S LiDAR bauen wir eine Anlage, die aus gemessenen Distanzen die Geschwindigkeit in Echtzeit erfasst.
 
-PlGeschwindigkeitskontrolle sowohl für Einsteiger als auch für Profis ein Projekt, das mit wenig Aufwand Lust auf kreatives Basteln macht. Erst einmal in Funktion, kommt der Spaß an Bewegung und Bewegungsmessung noch dazu.
+Die Geschwindigkeitskontrolle für Einsteiger als auch für Profis ist ein Projekt, das mit wenig Aufwand schnell Ergebnisse bringt. Erst einmal in Funktion, kommt der Spaß an Bewegung und Bewegungsmessung noch dazu.
 
 ![Picture](https://github.com/MakeMagazinDE/Radarkontrolle/blob/master/titel.jpg) 
 
