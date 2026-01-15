@@ -12,4 +12,4 @@ PlGeschwindigkeitskontrolle sowohl für Einsteiger als auch für Profis ein Proj
 
 ![Picture](https://github.com/MakeMagazinDE/Radarkontrolle/blob/master/titel.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/26 ab Seite 48](https://www.heise.de/select/make/2026/1/2528011564359372028). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/26 ab Seite 48](https://www.heise.de/select/make/2026/1/2528011564359372028).
